@@ -147,8 +147,6 @@ Here’s how the data looked after cleaning:
 
 ## Full SQL Code Used
 
-You can find the full SQL code for each transformation [here](#) (insert GitHub repo or Notion link if available).
-
 ---
 
 ## Impact & Lessons Learned
@@ -175,5 +173,3 @@ The ability to take messy, unusable data and turn it into gold is one of the mos
 I’m exploring ways to automate similar wrangling tasks using SQL stored procedures and integrating SQL with Python for dynamic pipelines.
 
 ---
-
-*Let me know if you'd like this turned into a PDF, blog, Notion post, or paired with a visual dashboard!*
